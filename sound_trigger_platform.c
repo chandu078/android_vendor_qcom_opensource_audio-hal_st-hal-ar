@@ -55,6 +55,7 @@ typedef unsigned int __u32;
 typedef unsigned char __u8;
 #endif
 
+#include <cutils/bitops.h>
 #include <cutils/log.h>
 #include <cutils/str_parms.h>
 #include <cutils/properties.h>
