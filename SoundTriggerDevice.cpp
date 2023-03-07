@@ -49,7 +49,7 @@
 #include <cutils/atomic.h>
 #include <utils/Trace.h>
 
-#include "PalApi.h"
+#include <inc/PalApi.h>
 
 #define XSTR(x) STR(x)
 #define STR(x) #x

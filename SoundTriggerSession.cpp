@@ -76,7 +76,7 @@
 #include <chrono>
 #include <thread>
 
-#include "PalApi.h"
+#include <inc/PalApi.h>
 
 SoundTriggerSession::SoundTriggerSession(sound_model_handle_t handle,
                                          audio_hw_call_back_t callback)

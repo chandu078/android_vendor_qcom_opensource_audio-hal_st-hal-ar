@@ -70,7 +70,7 @@
 #include <hardware/sound_trigger.h>
 #include <cutils/properties.h>
 
-#include "PalDefs.h"
+#include <inc/PalDefs.h>
 #include "SoundTriggerPropIntf.h"
 
 typedef enum {
